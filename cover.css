@@ -3,6 +3,21 @@
  */
 
 /* Links */
+
+body {
+  background-image: url("http://repcapitalmedia.com/wp-content/uploads/2013/07/164198583.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
 a,
 a:focus,
 a:hover {
